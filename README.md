@@ -1,4 +1,4 @@
-# LAB4-wordpress
+# Lab4-wordpress
 continuous deployment wordpress
 
 TLDR;
