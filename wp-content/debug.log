@@ -1,0 +1,1 @@
+[05-Apr-2025 17:22:37 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
